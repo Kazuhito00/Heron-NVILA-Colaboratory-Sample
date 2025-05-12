@@ -1,5 +1,5 @@
 # Heron-NVILA-Colaboratory-Sample
-Colaboratory上で[Heron-NVILA](https://huggingface.co/turing-motors/Heron-NVILA-Lite-1B)をお試しするサンプルです。<bR>
+Colaboratory上で[Heron-NVILA](https://huggingface.co/turing-motors/Heron-NVILA-Lite-1B)をお試しするサンプルです。<bR><bR>
 ![image](https://github.com/user-attachments/assets/37272c0a-e14d-4ef8-b241-e966ba72b87e)
 
 # Usage
